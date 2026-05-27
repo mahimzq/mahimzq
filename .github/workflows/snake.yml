@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch:        # allows manual trigger
 
+permissions:
+  contents: write           # required to push the output branch
+
 jobs:
   generate:
     name: Generate Snake Animation
