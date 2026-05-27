@@ -1,8 +1,4 @@
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0F1E,25:0D1B3E,55:0F3460,80:0E4D92,100:0891B2&text=Mahim&fontSize=80&fontColor=E0F7FF&fontAlignY=40&animation=fadeIn&desc=AI%20Systems%20Builder%20%E2%80%A2%20Infrastructure%20Architect%20%E2%80%A2%20Automation%20Engineer&descSize=16&descAlignY=58&descAlign=50&stroke=0891B2&strokeWidth=1"/>
-
-</div>
 
 <div align="center">
 
@@ -156,21 +152,26 @@ Process Optimisation
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=mahimzq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0891B2&text_color=94A3B8&border_radius=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahimzq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0891B2&text_color=94A3B8&border_radius=8&include_all_commits=true&count_private=false&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimzq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=8&cache_seconds=86400&langs_count=8"/>
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=mahimzq&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0891B2&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&border_radius=8"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahimzq&bg_color=0D1117&color=38BDF8&line=0891B2&point=E0F7FF&area=true&area_color=0F3460&hide_border=true&border_radius=8"/>
+
+<br/><br/>
+
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmahimzq&query=public_repos&label=Public%20Repos&style=for-the-badge&color=38BDF8&labelColor=0D1117)](https://github.com/mahimzq?tab=repositories)
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimzq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=8"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=mahimzq&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0891B2&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&border_radius=8"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahimzq&bg_color=0D1117&color=38BDF8&line=0891B2&point=E0F7FF&area=true&area_color=0F3460&hide_border=true&border_radius=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahimzq&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+[![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmahimzq&query=public_gists&label=Gists&style=for-the-badge&color=0891B2&labelColor=0D1117)](https://gist.github.com/mahimzq)
+&nbsp;
+<img src="https://img.shields.io/badge/Contributions%20Since%202020-339-38BDF8?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-6%20Days-0891B2?style=for-the-badge&labelColor=0D1117&logo=github"/>
 
 </div>
 
@@ -291,6 +292,6 @@ eWebCity is not a template shop. We engineer systems — AI integrations, custom
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,35:0E4D92,65:0F3460,100:0A0F1E&fontColor=E0F7FF"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,35:0E4D92,65:0F3460,100:0A0F1E&fontColor=E0F7FF"/>
