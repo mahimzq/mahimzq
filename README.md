@@ -1,181 +1,283 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:1E3A8A,60:2563EB,100:06B6D4&text=Mahim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20•%20WordPress%20Engineer%20•%20Automation%20Architect&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0F1E,25:0D1B3E,55:0F3460,80:0E4D92,100:0891B2&text=Mahim&fontSize=80&fontColor=E0F7FF&fontAlignY=40&animation=fadeIn&desc=AI%20Systems%20Builder%20%E2%80%A2%20Infrastructure%20Architect%20%E2%80%A2%20Automation%20Engineer&descSize=16&descAlignY=58&descAlign=50&stroke=0891B2&strokeWidth=1"/>
 
 </div>
 
-<h1 align="center">
-Hi 👋 I'm Mahim
-</h1>
+<div align="center">
 
-<h3 align="center">
-🇬🇧 UK-based Builder of AI-Powered Systems, WordPress Infrastructure & Automation Tools
-</h3>
+<a href="https://ewebcity.co.uk"><img src="https://img.shields.io/badge/eWebCity-Agency-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F1E"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-United%20Kingdom-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0F1E"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mahimzq&label=Profile+Views&color=0891B2&style=for-the-badge&labelColor=0A0F1E"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/mahimzq?style=for-the-badge&color=0891B2&labelColor=0A0F1E&label=Followers"/>
 
-<p align="center">
-Focused on scalable news platforms, local ad ecosystems, AI workflows, and real-world business solutions.
-</p>
+</div>
 
-<p align="center">
+<br/>
 
-<a href="https://ewebcity.co.uk">
-<img src="https://img.shields.io/badge/Agency-eWebCity-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://github.com/mahimzq">
-<img src="https://komarev.com/ghpvc/?username=mahimzq&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+AI-powered+systems+that+actually+work.;WordPress+infrastructure+at+enterprise+scale.;Automation+that+removes+the+noise+and+keeps+the+output.;Real+technology+for+real+businesses." />
 
-<img src="https://img.shields.io/github/followers/mahimzq?style=for-the-badge&color=2563EB"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+<br/>
 
-```yaml
-Name: Mahim
-Location: United Kingdom 🇬🇧
-Role: AI Systems Builder & Founder
-Company: eWebCity
-Focus:
-  - AI-powered systems
-  - WordPress engineering
-  - Business automation
-  - Scalable publishing platforms
-  - Local advertising ecosystems
-  - Server infrastructure
-Learning:
-  - Codex
-  - AI agents
-  - Autonomous workflows
+## ◈ &nbsp; Who I Am
+
+```typescript
+const mahim = {
+  name      : "Mahim",
+  location  : "United Kingdom 🇬🇧",
+  company   : "eWebCity — Founder & Lead Engineer",
+  mission   : "Build systems that solve real problems at scale",
+
+  expertise : [
+    "AI-Powered Systems & Agent Architecture",
+    "WordPress Infrastructure & Custom Engineering",
+    "Business Automation & Workflow Design",
+    "Scalable Publishing & Content Ecosystems",
+    "Local Ad Platforms & Revenue Infrastructure",
+    "Server Architecture & Cloud Deployments",
+  ],
+
+  currentlyBuilding : [
+    "Autonomous AI agent workflows",
+    "Local business ad ecosystems",
+    "High-performance news platforms",
+    "Custom WordPress at enterprise scale",
+  ],
+
+  philosophy : "Ship systems that outlast trends. Build for outcomes, not demos.",
+};
 ```
 
-I build **real-world business systems** — not just websites.
-
-My work combines **AI, automation, infrastructure, and custom engineering** to create products that are scalable, fast, and commercially useful.
-
-Whether it's a **news platform**, **business portal**, **automation system**, or **custom WordPress infrastructure**, I focus on building technology that solves actual business problems.
+<br/>
 
 ---
 
-# 🧠 What I Build
+## ◈ &nbsp; Core Competencies
 
 <div align="center">
 
-| 🤖 AI Systems | ⚙️ Automation | 🌍 Business Platforms |
-|---|---|---|
-| AI Agents | Workflow Automation | Local Business Systems |
-| GPT Integrations | Server Automation | Ad Ecosystems |
-| Content Pipelines | API Integrations | News Platforms |
-| Smart Tools | Internal Business Tools | Scalable Web Apps |
+<table>
+<tr>
+<td align="center" width="200">
+
+**🤖 AI Systems**
+<br/><br/>
+AI Agents & Pipelines<br/>
+GPT & Claude Integrations<br/>
+Smart Automation Tools<br/>
+Autonomous Workflows<br/>
+Content Intelligence
+
+</td>
+<td align="center" width="200">
+
+**⚙️ Infrastructure**
+<br/><br/>
+WordPress at Scale<br/>
+Linux Server Architecture<br/>
+NGINX & Docker<br/>
+Cloudflare Optimisation<br/>
+CI/CD Pipelines
+
+</td>
+<td align="center" width="200">
+
+**🌍 Business Platforms**
+<br/><br/>
+News & Publishing Systems<br/>
+Local Ad Ecosystems<br/>
+Multi-site Networks<br/>
+API Integrations<br/>
+Revenue Infrastructure
+
+</td>
+<td align="center" width="200">
+
+**🔄 Automation**
+<br/><br/>
+Workflow Engineering<br/>
+Server Automation<br/>
+Data Pipelines<br/>
+Internal Business Tools<br/>
+Process Optimisation
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-# ⚡ Tech Stack
+## ◈ &nbsp; Technical Stack
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark&perline=6"/>
 
-### Frameworks & CMS
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=wordpress,react,nextjs,nodejs"/>
+**Frameworks & CMS**
 
-### Infrastructure
+<img src="https://skillicons.dev/icons?i=wordpress,react,nextjs,nodejs&theme=dark&perline=4"/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,mysql,git"/>
+<br/><br/>
 
-### AI & Development
+**Infrastructure & Tools**
 
-<img src="https://skillicons.dev/icons?i=openai,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,mysql,git&theme=dark&perline=6"/>
+
+<br/><br/>
+
+**AI & Development**
+
+<img src="https://skillicons.dev/icons?i=openai,vscode,github&theme=dark&perline=3"/>
 
 </div>
 
+<br/>
+
 ---
 
-# 📊 GitHub Analytics
+## ◈ &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahimzq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=mahimzq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0891B2&text_color=94A3B8&border_radius=8"/>
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimzq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimzq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=mahimzq&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0891B2&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&border_radius=8"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahimzq&bg_color=0D1117&color=38BDF8&line=0891B2&point=E0F7FF&area=true&area_color=0F3460&hide_border=true&border_radius=8"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahimzq&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
+<br/>
+
+---
+
+## ◈ &nbsp; Systems I Build
+
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahimzq&theme=tokyo-night&hide_border=true"/>
+| System | Stack | Description |
+|--------|-------|-------------|
+| 🤖 **AI Workflow Engine** | Python · OpenAI API · Node.js | Autonomous content and business automation agents |
+| 📰 **News Publishing Platform** | WordPress · PHP · MySQL · NGINX | High-traffic publishing ecosystems with custom editorial tooling |
+| 🌍 **Local Business Ecosystem** | WordPress · React · REST API | Ad platforms and directories for local market monetisation |
+| ⚙️ **WordPress Infrastructure** | PHP · Docker · Cloudflare · Linux | Multi-site networks with enterprise-grade performance architecture |
+| 🔄 **Business Automation Suite** | Node.js · Python · API Integrations | Internal tools that eliminate manual processes at the root |
+| 🧠 **AI Agent Experiments** | Codex · LangChain · Python | Explorations in autonomous AI systems and self-directed workflows |
 
 </div>
 
----
-
-# 🏗 Current Focus
-
-🚀 Building **AI-powered business systems**  
-⚙️ Creating **custom automation workflows**  
-📰 Scaling **news & content ecosystems**  
-🌍 Developing **local ad infrastructure**  
-🧠 Exploring **Codex & autonomous AI agents**  
-☁️ Improving **server architecture & deployments**
+<br/>
 
 ---
 
-# 🌐 eWebCity
+## ◈ &nbsp; Current Focus
 
 <div align="center">
 
-### Building Smart Digital Products for Real Businesses
-
-We help businesses with:
-
-✨ AI Integrations  
-✨ Custom WordPress Systems  
-✨ Business Automation  
-✨ High-performance Websites  
-✨ SEO & Digital Growth  
-✨ Scalable Platforms
-
-### 🔗 https://ewebcity.co.uk
+```
+ ┌──────────────────────────────────────────────────────────────────┐
+ │                                                                  │
+ │   🧠  Autonomous AI agents for business process management       │
+ │   📰  Scaling news & content platforms to high-volume traffic    │
+ │   🌍  Local advertising infrastructure with smart targeting      │
+ │   ⚙️  Custom WordPress systems replacing off-the-shelf tools     │
+ │   ☁️  Server architecture for resilience, speed, and cost        │
+ │   🔬  Codex and LLM-native development workflows                 │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Systems | Intelligent automation tools |
-| ⚙️ WordPress Infrastructure | Custom engineering & scalable systems |
-| 📰 News Platforms | High-performance publishing ecosystems |
-| 🌍 Local Business Ecosystem | Smart local business & ad solutions |
-| 🧠 AI Agents | Experimental autonomous workflows |
-
-</div>
+<br/>
 
 ---
 
-# 📫 Connect With Me
+## ◈ &nbsp; eWebCity
 
 <div align="center">
+
+<br/>
+
+**Building digital infrastructure for businesses that need it to work.**
+
+<br/>
+
+eWebCity is not a template shop. We engineer systems — AI integrations, custom WordPress infrastructure, automation workflows, and scalable web platforms — built around what a business actually needs to grow.
+
+<br/>
+
+<table>
+<tr>
+<td align="center">🤖 AI Integrations</td>
+<td align="center">⚙️ Custom WordPress</td>
+<td align="center">🔄 Business Automation</td>
+</tr>
+<tr>
+<td align="center">🚀 Performance Platforms</td>
+<td align="center">📈 SEO & Digital Growth</td>
+<td align="center">🏗️ Scalable Architecture</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://ewebcity.co.uk">
-<img src="https://img.shields.io/badge/Website-eWebCity-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20eWebCity-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F1E"/>
 </a>
 
-<a href="https://github.com/mahimzq">
-<img src="https://img.shields.io/badge/GitHub-mahimzq-111827?style=for-the-badge&logo=github"/>
+</div>
+
+<br/>
+
+---
+
+## ◈ &nbsp; Let's Connect
+
+<div align="center">
+
+<br/>
+
+<a href="https://ewebcity.co.uk">
+<img src="https://img.shields.io/badge/Website-ewebcity.co.uk-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
 </a>
+&nbsp;
+<a href="https://github.com/mahimzq">
+<img src="https://img.shields.io/badge/GitHub-mahimzq-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+*Open to collaborations on AI systems, WordPress infrastructure, and automation projects.*
+
+<br/>
 
 </div>
 
@@ -183,8 +285,12 @@ We help businesses with:
 
 <div align="center">
 
-### 💡 “Building useful technology for real businesses.”
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:1E3A8A,70:2563EB,100:06B6D4"/>
+> **"I don't build websites. I build systems that make businesses harder to compete with."**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,35:0E4D92,65:0F3460,100:0A0F1E&fontColor=E0F7FF"/>
 
 </div>
