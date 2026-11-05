@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
-  <title id="title">Cracks</title>
-  <desc id="description">Matrix-inspired code-rain header for Cracks, AI systems builder and automation engineer.</desc>
+  <title id="title">Mahim</title>
+  <desc id="description">Animated Matrix-inspired code-rain header for Mahim, AI systems builder and automation engineer.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#001407"/>
@@ -30,14 +30,36 @@
     <text x="180" y="22">#</text><text x="180" y="50">1</text><text x="180" y="78">ﾅ</text><text x="180" y="106">Z</text>
     <text x="932" y="215">ﾃ</text><text x="932" y="243">4</text><text x="932" y="271">Q</text><text x="932" y="299">0</text>
   </g>
+  <g font-family="monospace" font-size="17" fill="#3dff83" opacity=".46">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-120;0,360" dur="8s" repeatCount="indefinite"/>
+      <text x="255" y="0">0</text><text x="255" y="30">ﾏ</text><text x="255" y="60">C</text><text x="255" y="90">7</text><text x="255" y="120">ﾄ</text><text x="255" y="150">#</text><text x="255" y="180">1</text><text x="255" y="210">ﾖ</text><text x="255" y="240">A</text><text x="255" y="270">4</text><text x="255" y="300">ﾐ</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-310;0,360" dur="11s" repeatCount="indefinite"/>
+      <text x="870" y="0">ﾈ</text><text x="870" y="30">2</text><text x="870" y="60">X</text><text x="870" y="90">ﾗ</text><text x="870" y="120">8</text><text x="870" y="150">%</text><text x="870" y="180">B</text><text x="870" y="210">ﾁ</text><text x="870" y="240">5</text><text x="870" y="270">K</text><text x="870" y="300">0</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-210;0,360" dur="9.5s" repeatCount="indefinite"/>
+      <text x="965" y="0">6</text><text x="965" y="30">ﾌ</text><text x="965" y="60">M</text><text x="965" y="90">3</text><text x="965" y="120">ﾊ</text><text x="965" y="150">+</text><text x="965" y="180">9</text><text x="965" y="210">Z</text><text x="965" y="240">ﾘ</text><text x="965" y="270">1</text><text x="965" y="300">!</text>
+    </g>
+  </g>
   <g font-family="monospace" font-size="18" fill="#a8ffbd" opacity=".72">
     <text x="38" y="282">ﾏ</text><text x="112" y="306">ﾕ</text><text x="1010" y="304">ﾗ</text><text x="1080" y="312">ﾛ</text>
   </g>
   <rect width="1200" height="330" fill="url(#scanlines)"/>
   <path d="M0 300 C210 270 330 332 530 306 S900 272 1200 302 L1200 330 L0 330 Z" fill="#000000" opacity=".68"/>
   <g text-anchor="middle" font-family="monospace">
-    <text x="600" y="164" fill="#39ff88" opacity=".25" font-size="86" font-weight="800" filter="url(#soft-glow)">CRACKS</text>
-    <text x="600" y="164" fill="url(#glow)" font-size="86" font-weight="800" letter-spacing="8">CRACKS</text>
+    <text x="600" y="164" fill="#39ff88" opacity=".25" font-size="86" font-weight="800" filter="url(#soft-glow)">MAHIM<animate attributeName="opacity" values=".18;.42;.18" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="600" y="164" fill="url(#glow)" font-size="86" font-weight="800" letter-spacing="8">MAHIM</text>
+    <g stroke="#001407" stroke-width="4" stroke-linecap="square" opacity=".92">
+      <path d="M440 102 l9 19 -7 16 13 24"/>
+      <path d="M518 98 l-8 22 10 17 -8 26"/>
+      <path d="M602 103 l7 17 -10 20 8 23"/>
+      <path d="M683 99 l-9 23 10 19 -8 21"/>
+      <path d="M755 104 l8 18 -10 18 8 24"/>
+      <animate attributeName="opacity" values=".62;1;.62" dur="1.7s" repeatCount="indefinite"/>
+    </g>
     <text x="600" y="214" fill="#d8ffe6" font-size="16" letter-spacing="1.2">AI SYSTEMS BUILDER  •  INFRASTRUCTURE ARCHITECT  •  AUTOMATION ENGINEER</text>
     <text x="600" y="250" fill="#39ff88" opacity=".78" font-size="12" letter-spacing="3">WAKE  •  BUILD  •  AUTOMATE  •  REPEAT</text>
   </g>

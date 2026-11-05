@@ -7,7 +7,7 @@
 <!--  HERO — capsule-render scales to 100% width on all screens -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/main/assets/matrix-header.svg" alt="Cracks — AI Systems Builder, Infrastructure Architect, Automation Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/main/assets/matrix-header.svg" alt="Mahim — AI Systems Builder, Infrastructure Architect, Automation Engineer"/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--  STATUS STRIP — badges wrap naturally on narrow screens    -->
@@ -48,8 +48,8 @@
 ## 🧬 &nbsp; About Me
 
 ```typescript
-const cracks: Developer = {
-  name     : "Cracks",
+const mahim: Developer = {
+  name     : "Mahim",
   location : "United Kingdom 🇬🇧",
   company  : "eWebCity — Founder & Lead Engineer",
   mission  : "Build systems that outlast trends",
