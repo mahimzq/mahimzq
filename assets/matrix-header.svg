@@ -43,14 +43,38 @@
       <animateTransform attributeName="transform" type="translate" values="0,-210;0,360" dur="9.5s" repeatCount="indefinite"/>
       <text x="965" y="0">6</text><text x="965" y="30">ﾌ</text><text x="965" y="60">M</text><text x="965" y="90">3</text><text x="965" y="120">ﾊ</text><text x="965" y="150">+</text><text x="965" y="180">9</text><text x="965" y="210">Z</text><text x="965" y="240">ﾘ</text><text x="965" y="270">1</text><text x="965" y="300">!</text>
     </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-360;0,360" dur="6.7s" repeatCount="indefinite"/>
+      <text x="330" y="0">ﾏ</text><text x="330" y="30">5</text><text x="330" y="60">R</text><text x="330" y="90">ﾆ</text><text x="330" y="120">0</text><text x="330" y="150">$</text><text x="330" y="180">Y</text><text x="330" y="210">8</text><text x="330" y="240">ﾌ</text><text x="330" y="270">2</text><text x="330" y="300">#</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-275;0,360" dur="7.8s" repeatCount="indefinite"/>
+      <text x="790" y="0">3</text><text x="790" y="30">ﾗ</text><text x="790" y="60">N</text><text x="790" y="90">%</text><text x="790" y="120">7</text><text x="790" y="150">ﾖ</text><text x="790" y="180">V</text><text x="790" y="210">1</text><text x="790" y="240">+</text><text x="790" y="270">ﾁ</text><text x="790" y="300">6</text>
+    </g>
   </g>
   <g font-family="monospace" font-size="18" fill="#a8ffbd" opacity=".72">
     <text x="38" y="282">ﾏ</text><text x="112" y="306">ﾕ</text><text x="1010" y="304">ﾗ</text><text x="1080" y="312">ﾛ</text>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#39ff88" opacity=".38">
+    <g>
+      <animate attributeName="opacity" values=".12;.55;.12" dur="2.2s" repeatCount="indefinite"/>
+      <text x="194" y="80">root@matrix:~$ boot --profile</text>
+      <text x="194" y="97">[ OK ] neural link established</text>
+      <text x="194" y="114">[ OK ] automation engine online</text>
+      <text x="194" y="131">&gt; loading /identity/mahim</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values=".5;.14;.5" dur="2.7s" repeatCount="indefinite"/>
+      <text x="765" y="210">$ deploy --systems=all</text>
+      <text x="765" y="227">&gt; signal: stable</text>
+      <text x="765" y="244">&gt; status: LIVE_</text>
+    </g>
   </g>
   <rect width="1200" height="330" fill="url(#scanlines)"/>
   <path d="M0 300 C210 270 330 332 530 306 S900 272 1200 302 L1200 330 L0 330 Z" fill="#000000" opacity=".68"/>
   <g text-anchor="middle" font-family="monospace">
     <text x="600" y="164" fill="#39ff88" opacity=".25" font-size="86" font-weight="800" filter="url(#soft-glow)">MAHIM<animate attributeName="opacity" values=".18;.42;.18" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="596" y="164" fill="#00ff41" opacity=".35" font-size="86" font-weight="800" letter-spacing="8">MAHIM<animate attributeName="x" values="596;606;598;603;596" dur=".55s" repeatCount="indefinite"/></text>
     <text x="600" y="164" fill="url(#glow)" font-size="86" font-weight="800" letter-spacing="8">MAHIM</text>
     <g stroke="#001407" stroke-width="4" stroke-linecap="square" opacity=".92">
       <path d="M440 102 l9 19 -7 16 13 24"/>
@@ -61,7 +85,7 @@
       <animate attributeName="opacity" values=".62;1;.62" dur="1.7s" repeatCount="indefinite"/>
     </g>
     <text x="600" y="214" fill="#d8ffe6" font-size="16" letter-spacing="1.2">AI SYSTEMS BUILDER  •  INFRASTRUCTURE ARCHITECT  •  AUTOMATION ENGINEER</text>
-    <text x="600" y="250" fill="#39ff88" opacity=".78" font-size="12" letter-spacing="3">WAKE  •  BUILD  •  AUTOMATE  •  REPEAT</text>
+    <text x="600" y="250" fill="#39ff88" opacity=".78" font-size="12" letter-spacing="3">WAKE  •  BUILD  •  AUTOMATE  •  REPEAT<animate attributeName="opacity" values=".3;1;.3" dur="1.15s" repeatCount="indefinite"/></text>
   </g>
   <rect x="1" y="1" width="1198" height="328" fill="none" stroke="#39ff88" stroke-opacity=".25"/>
 </svg>
