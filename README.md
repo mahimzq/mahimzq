@@ -7,7 +7,7 @@
 <!--  HERO — capsule-render scales to 100% width on all screens -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6B6B,20:FEC84D,45:48CAC7,70:7209B7,100:3A0CA3&text=Mahim&fontSize=90&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=AI%20Systems%20Builder%20%E2%80%A2%20Infrastructure%20Architect%20%E2%80%A2%20Automation%20Engineer&descSize=16&descAlignY=63&stroke=FFFFFF&strokeWidth=2"/>
+<img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/main/assets/matrix-header.svg" alt="Cracks — AI Systems Builder, Infrastructure Architect, Automation Engineer"/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--  STATUS STRIP — badges wrap naturally on narrow screens    -->
@@ -48,8 +48,8 @@
 ## 🧬 &nbsp; About Me
 
 ```typescript
-const mahim: Developer = {
-  name     : "Mahim",
+const cracks: Developer = {
+  name     : "Cracks",
   location : "United Kingdom 🇬🇧",
   company  : "eWebCity — Founder & Lead Engineer",
   mission  : "Build systems that outlast trends",

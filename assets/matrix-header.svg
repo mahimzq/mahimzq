@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+  <title id="title">Cracks</title>
+  <desc id="description">Matrix-inspired code-rain header for Cracks, AI systems builder and automation engineer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#001407"/>
+      <stop offset="0.62" stop-color="#020c05"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39ff88"/>
+      <stop offset="0.5" stop-color="#d8ffe6"/>
+      <stop offset="1" stop-color="#39ff88"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" opacity=".025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" fill="url(#background)"/>
+  <g font-family="monospace" font-size="18" fill="#20d863" opacity=".36">
+    <text x="38" y="30">ｱ</text><text x="38" y="58">4</text><text x="38" y="86">M</text><text x="38" y="114">ﾆ</text><text x="38" y="142">0</text><text x="38" y="170">#</text><text x="38" y="198">ﾖ</text><text x="38" y="226">7</text><text x="38" y="254">&amp;</text>
+    <text x="112" y="-2">9</text><text x="112" y="26">ｻ</text><text x="112" y="54">N</text><text x="112" y="82">2</text><text x="112" y="110">ﾑ</text><text x="112" y="138">$</text><text x="112" y="166">8</text><text x="112" y="194">ﾗ</text><text x="112" y="222">A</text><text x="112" y="250">0</text><text x="112" y="278">?</text>
+    <text x="1010" y="24">ﾌ</text><text x="1010" y="52">6</text><text x="1010" y="80">C</text><text x="1010" y="108">ﾊ</text><text x="1010" y="136">1</text><text x="1010" y="164">%</text><text x="1010" y="192">X</text><text x="1010" y="220">9</text><text x="1010" y="248">ﾈ</text><text x="1010" y="276">3</text>
+    <text x="1080" y="4">7</text><text x="1080" y="32">ﾘ</text><text x="1080" y="60">D</text><text x="1080" y="88">0</text><text x="1080" y="116">ﾏ</text><text x="1080" y="144">+</text><text x="1080" y="172">5</text><text x="1080" y="200">K</text><text x="1080" y="228">ﾁ</text><text x="1080" y="256">2</text><text x="1080" y="284">!</text>
+    <text x="180" y="22">#</text><text x="180" y="50">1</text><text x="180" y="78">ﾅ</text><text x="180" y="106">Z</text>
+    <text x="932" y="215">ﾃ</text><text x="932" y="243">4</text><text x="932" y="271">Q</text><text x="932" y="299">0</text>
+  </g>
+  <g font-family="monospace" font-size="18" fill="#a8ffbd" opacity=".72">
+    <text x="38" y="282">ﾏ</text><text x="112" y="306">ﾕ</text><text x="1010" y="304">ﾗ</text><text x="1080" y="312">ﾛ</text>
+  </g>
+  <rect width="1200" height="330" fill="url(#scanlines)"/>
+  <path d="M0 300 C210 270 330 332 530 306 S900 272 1200 302 L1200 330 L0 330 Z" fill="#000000" opacity=".68"/>
+  <g text-anchor="middle" font-family="monospace">
+    <text x="600" y="164" fill="#39ff88" opacity=".25" font-size="86" font-weight="800" filter="url(#soft-glow)">CRACKS</text>
+    <text x="600" y="164" fill="url(#glow)" font-size="86" font-weight="800" letter-spacing="8">CRACKS</text>
+    <text x="600" y="214" fill="#d8ffe6" font-size="16" letter-spacing="1.2">AI SYSTEMS BUILDER  •  INFRASTRUCTURE ARCHITECT  •  AUTOMATION ENGINEER</text>
+    <text x="600" y="250" fill="#39ff88" opacity=".78" font-size="12" letter-spacing="3">WAKE  •  BUILD  •  AUTOMATE  •  REPEAT</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="328" fill="none" stroke="#39ff88" stroke-opacity=".25"/>
+</svg>
