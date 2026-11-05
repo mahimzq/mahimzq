@@ -96,46 +96,21 @@ const mahim: Developer = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--  GITHUB ANALYTICS                                          -->
-<!--  Self-hosted metrics SVG — full-width, scales on mobile   -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 📊 &nbsp; GitHub Analytics
+## 📊 &nbsp; GitHub Presence
 
 <div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/main/assets/metrics-overview.svg" alt="GitHub Metrics"/>
-
-  <br/>
-
-  <img width="100%" src="https://streak-stats.demolab.com?user=mahimzq&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=48CAC7&fire=FEC84D&currStreakLabel=FEC84D&sideLabels=c9d1d9&dates=7209B7&border_radius=12" alt="GitHub Streak"/>
+  <a href="https://github.com/mahimzq?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-7209B7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mahimzq?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/View-Contributions-48CAC7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View contributions"/>
+  </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📈 &nbsp; Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahimzq&bg_color=0d1117&color=FF6B6B&line=48CAC7&point=FEC84D&area=true&area_color=7209B7&hide_border=true&border_radius=12&custom_title=Mahim%27s%20Contribution%20Graph" alt="Activity Graph"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mahimzq/mahimzq/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mahimzq/mahimzq/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/mahimzq/mahimzq/output/github-contribution-grid-snake-dark.svg"
-      width="100%"/>
-  </picture>
-</div>
+> GitHub's native contribution graph appears above and remains the most reliable view of current activity.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
