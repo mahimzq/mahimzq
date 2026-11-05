@@ -7,7 +7,7 @@
 <!--  HERO — capsule-render scales to 100% width on all screens -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/main/assets/matrix-header.svg" alt="Mahim — AI Systems Builder, Infrastructure Architect, Automation Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/mahimzq/mahimzq/795352f8590ce59de53db3a026f75fe5509a5244/assets/matrix-header.svg" alt="Mahim — AI Systems Builder, Infrastructure Architect, Automation Engineer"/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--  STATUS STRIP — badges wrap naturally on narrow screens    -->
